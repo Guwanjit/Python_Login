@@ -25,6 +25,7 @@ paymentmodevalue = StringVar
 
 checkvalue = IntVar
 
+# hdhdhjhnj
 nameentry = Entry(root, textvariable=namevalue)
 phoneentry = Entry(root, textvariable=phonevalue)
 genderentry = Entry(root, textvariable=gendervalue)
